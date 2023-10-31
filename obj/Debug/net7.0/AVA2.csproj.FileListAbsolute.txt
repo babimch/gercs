@@ -1,0 +1,14 @@
+C:\Users\Barba\LPO\AVA2\bin\Debug\net7.0\AVA2.exe
+C:\Users\Barba\LPO\AVA2\bin\Debug\net7.0\AVA2.deps.json
+C:\Users\Barba\LPO\AVA2\bin\Debug\net7.0\AVA2.runtimeconfig.json
+C:\Users\Barba\LPO\AVA2\bin\Debug\net7.0\AVA2.dll
+C:\Users\Barba\LPO\AVA2\bin\Debug\net7.0\AVA2.pdb
+C:\Users\Barba\LPO\AVA2\obj\Debug\net7.0\AVA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barba\LPO\AVA2\obj\Debug\net7.0\AVA2.AssemblyInfoInputs.cache
+C:\Users\Barba\LPO\AVA2\obj\Debug\net7.0\AVA2.AssemblyInfo.cs
+C:\Users\Barba\LPO\AVA2\obj\Debug\net7.0\AVA2.csproj.CoreCompileInputs.cache
+C:\Users\Barba\LPO\AVA2\obj\Debug\net7.0\AVA2.dll
+C:\Users\Barba\LPO\AVA2\obj\Debug\net7.0\refint\AVA2.dll
+C:\Users\Barba\LPO\AVA2\obj\Debug\net7.0\AVA2.pdb
+C:\Users\Barba\LPO\AVA2\obj\Debug\net7.0\AVA2.genruntimeconfig.cache
+C:\Users\Barba\LPO\AVA2\obj\Debug\net7.0\ref\AVA2.dll
